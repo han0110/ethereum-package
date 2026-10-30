@@ -737,6 +737,11 @@ def input_parser(plan, input_args):
             "reth-openvm",
             "reth-sp1",
             "reth-zisk",
+            "nimbus-sp1",
+            "nimbus-zisk",
+            "nethermind-sp1",
+            "nethermind-zisk",
+            "zilkworm-sp1",
         ]
         effective_zkvms = []
         effective_ere_zkvms_by_proof_type = {}
